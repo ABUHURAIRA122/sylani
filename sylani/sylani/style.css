@@ -1,0 +1,35 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+
+.div_main_2{
+    background-image: url(banner_bg.png);
+    height: 500px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.search_bar{
+     height: 40px;
+     width: 40%;
+     display: flex;
+     align-items: center;
+     justify-content: space-around;
+
+}
+ 
+.heading_1{
+    height: 150px;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    /* justify-content: space-around; */
+    /* flex-direction: row; */
+}
+
+.search_button{
+    height: 40px;
+    width: 60px;
+}
